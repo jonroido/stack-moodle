@@ -1,0 +1,147 @@
+/* Plugin setup */
+.turnitinsim_features {
+    position: relative;
+}
+
+.turnitinsim_features,
+.turnitinsim_ferpa {
+    border: 1px solid #db4221;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.turnitinsim_features .turnitinsim_featurelist {
+    float: left;
+    margin-top: 0;
+    margin-right: 32px;
+}
+
+.turnitinsim_features h4 {
+    margin-top: 0;
+}
+
+.turnitinsim_features p {
+    clear: both;
+    margin-bottom: 0;
+}
+
+.turnitinsim_setup_download_links .mdl-align {
+    text-align: left;
+}
+
+.turnitinsim_setup_download_links .mdl-align label {
+    width: 320px;
+}
+
+/* EULA */
+.turnitinsim_eulacontainer {
+    border: 1px solid #db4221;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.turnitinsim_eulacontainer #pp-eula-accept {
+    margin-left: 20px;
+}
+
+/* Icons in get_links */
+.turnitinsim_status {
+    white-space: nowrap;
+}
+
+.turnitinsim_links .turnitinsim_status .tii_icon {
+    width: 20px;
+    height: 20px;
+    padding-right: 4px;
+    position: relative;
+    top: 3px;
+}
+
+.turnitinsim_links .turnitinsim_status .or_score {
+    min-width: 32px;
+    font-size: 12px;
+    display: inline-block;
+    text-align: center;
+    padding: 2px 4px;
+    cursor: pointer;
+}
+
+.turnitinsim_links .clear {
+    clear: both;
+}
+
+.turnitinsim_links .pp_resubmit_link,
+.turnitinsim_links .turnitinsim_status_text_eula,
+.turnitinsim_links .eula-row-launch {
+    cursor: pointer;
+}
+
+/* Define OR score colours */
+.turnitinsim_links .turnitinsim_status .or_score_colour_0 {
+    background: #3552b7;
+    color: #fff;
+}
+
+.turnitinsim_links .turnitinsim_status .or_score_colour_10 {
+    background: #617b8d;
+    color: #fff;
+}
+
+.turnitinsim_links .turnitinsim_status .or_score_colour_20 {
+    background: #a1b556;
+}
+
+.turnitinsim_links .turnitinsim_status .or_score_colour_30 {
+    background: #dae235;
+}
+
+.turnitinsim_links .turnitinsim_status .or_score_colour_40 {
+    background: #edac28;
+}
+
+.turnitinsim_links .turnitinsim_status .or_score_colour_50 {
+    background: #edd42f;
+}
+
+.turnitinsim_links .turnitinsim_status .or_score_colour_60 {
+    background: #ecad28;
+}
+
+.turnitinsim_links .turnitinsim_status .or_score_colour_70 {
+    background: #e15a21;
+    color: #fff;
+}
+
+.turnitinsim_links .turnitinsim_status .or_score_colour_80 {
+    background: #e05a21;
+    color: #fff;
+}
+
+.turnitinsim_links .turnitinsim_status .or_score_colour_90 {
+    background: #dc4321;
+    color: #fff;
+}
+
+.turnitinsim_links .turnitinsim_status .or_score_colour_100 {
+    background: #db4221;
+    color: #fff;
+}
+
+/* Connection Test*/
+.turnitinsim_connection-test-success,
+.turnitinsim_connection-test-failed {
+    background-image: none;
+    color: #fff;
+    text-shadow: none;
+}
+.turnitinsim_connection-test-success button:focus,
+.turnitinsim_connection-test-failed button:focus {
+    outline: 0;
+}
+.turnitinsim_connection-test-success {
+    background-color: #51a351;
+}
+.turnitinsim_connection-test-failed {
+    background-color: #d9534f;
+}
