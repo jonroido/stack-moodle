@@ -1,0 +1,318 @@
+a:45:{s:9:"cardicon1";s:8:"fa-money";s:9:"cardicon2";s:9:"fa-pencil";s:9:"cardicon3";s:6:"fa-eye";s:9:"cardicon4";s:7:"fa-file";s:14:"cardiconcolor1";s:7:"#000000";s:14:"cardiconcolor2";s:7:"#000000";s:14:"cardiconcolor3";s:7:"#000000";s:14:"cardiconcolor4";s:7:"#000000";s:9:"cardlink1";s:0:"";s:9:"cardlink2";s:0:"";s:9:"cardlink3";s:0:"";s:9:"cardlink4";s:0:"";s:13:"cardsubtitle1";s:23:"finance subtitle to put";s:13:"cardsubtitle2";s:26:"enrollment subtitle to put";s:13:"cardsubtitle3";s:22:"sentry subtitle to put";s:13:"cardsubtitle4";s:25:"reporting subtitle to put";s:10:"cardtitle1";s:7:"Finance";s:10:"cardtitle2";s:10:"Enrollment";s:10:"cardtitle3";s:6:"SENTRY";s:10:"cardtitle4";s:9:"Reporting";s:13:"defaultfooter";s:1117:"<div class="container">
+    <ul class="labeled-icons">
+        <div class="row">
+            <div class="col-sm">
+                <li>
+                    <span class="fa fa-globe "></span> Website
+                    <br>
+                    <a target="_blank">
+                                    </a>
+                    <p class="ml-4" style="cursor: pointer;">https://<a href="https://stackschool.dev" target="_blank" style="cursor: pointer;">stackschool.dev<br></a></p>
+                </li>
+            </div>
+            <div class="col-sm">
+                <li>
+                    <span class="fa fa-envelope  "></span>Email
+                    <br>
+                    <a target="_blank">
+                                    </a>
+                    <p class="ml-4" style="cursor: pointer;"><a target="_blank" style="cursor: pointer;">team@stackschool.dev<br></a></p>
+                </li>
+            </div>
+            <div class="col-sm">
+                © 2020 Copyright:
+                <a href="#"> STACK Technologies</a>
+            </div>
+        </div>
+    </ul>
+</div>";s:20:"defaultfrontpagebody";s:0:"";s:20:"enableadmindashboard";s:1:"0";s:7:"favicon";s:0:"";s:15:"frontpagebanner";s:43:"/auditorium-benches-chairs-class-207691.jpg";s:20:"frontpagebuttonclass";s:11:"btn-primary";s:19:"frontpagebuttonhref";s:44:"http://assessments.xs.edu.ph/login/index.php";s:19:"frontpagebuttontext";s:5:"Login";s:22:"frontpagecardssubtitle";s:55:"a description of the other services of the STACK Suite.";s:19:"frontpagecardstitle";s:34:"Other services of the STACK Suite:";s:20:"frontpageenablecards";s:1:"1";s:17:"frontpagesubtitle";s:32:"Just teach, a classroom for all.";s:14:"frontpagetitle";s:15:"STACK CLASSROOM";s:20:"loginbackgroundimage";s:43:"/auditorium-benches-chairs-class-207691.jpg";s:14:"loginpagestyle";s:5:"image";s:13:"numberofcards";s:1:"4";s:25:"particles_backgroundcolor";s:7:"#020221";s:22:"particles_circlescolor";s:7:"#FFFFFF";s:12:"primarycolor";s:7:"#f22c39";s:4:"scss";s:5430:"#nav-drawer{
+    background-color: #f2f2f2;
+}
+.media-body {
+  color: #212529;
+}
+
+.btn-primary {
+color: #ffffff !important;
+}
+
+.icon  {
+  color: #212529;
+}
+
+//mga tinago 
+
+#page-footer .copyleft {
+    display: none;
+}
+
+.form-control-static .sitemoodlerelease{
+display: none;
+}
+
+ 
+.mform .form-inline br+label {
+    justify-content: flex-start;
+    width: 100%;
+    display: none;
+}
+
+
+#fgroup_id_commnewsgroup{
+display:none;
+}
+
+#fgroup_id_emailalertgroup{
+display:none;
+}
+
+#id_moodle .form-check label {
+display: none;
+}
+
+#linkroot .container .row .col .list-unstyled li:nth-last-child(2){
+display: none;
+}
+
+fieldset #admin-enabletrusttext .form-setting .form-description p{
+display: none;
+}
+
+fieldset #admin-enablegravatar .form-setting .form-description p{
+display: none;
+}
+
+fieldset #admin-gravatardefaulturl .form-setting .form-description p{
+display: none;
+}
+
+#admin-showuseridentity .form-setting .form-description {
+display: none;
+}
+
+.card .card-body div .dataprivacy-main dl {
+display: none;
+}
+
+.dataprivacy-main p{
+display: none; 
+}
+
+#admin-restore_replace_course_startdate .form-setting .form-description p{
+display: none;
+}
+
+#admin-restore_replace_course_shortname .form-setting .form-description p{
+display: none;
+}
+
+#admin-restore_merge_course_startdate .form-setting .form-description p{
+display: none;
+}
+
+#admin-restore_merge_course_shortname .form-setting .form-description p{
+display: none;
+}
+
+#admin-restore_merge_course_fullname .form-setting .form-description p{
+display: none;
+}
+
+#admin-restore_replace_course_fullname .form-setting .form-description p{
+display: none;
+}
+
+#admin-scormstandard .form-setting .form-description p{
+display: none;
+}
+
+#admin-aiccuserid .form-setting .form-description p {
+display: none;
+}
+
+tbody #toolplugins_administration_table_r22 {
+display: none;
+}
+
+#adminsettings .generalbox{
+display: none;
+}
+
+#region-main #adminsettings .settingsform fieldset .generalbox p {
+display: none;
+}
+
+#admin-recaptchaprivatekey .form-setting .form-description p {
+display: none;
+}
+
+#admin-forgottenpasswordurl .form-setting .form-description p {
+display: none;
+}
+
+#admin-alternateloginurl .form-setting .form-description p {
+display: none;
+}
+
+#core-cache-definition-summaries .generaltable tbody .definition-core-userselections {
+display: none;
+}
+
+#admin-repositorygetfiletimeout .form-setting .form-description p {
+display: none;
+}
+
+#admin-repositoryallowexternallinks .form-setting .form-description p {
+display: none;
+}
+
+#admin-repositorygetfiletimeout .form-setting .form-description p {
+display: none;
+}
+
+#admin-repositoryallowexternallinks .form-setting .form-description p {
+display: none;
+}
+
+#admin-requireemoticon{
+display: none;
+} 
+
+#admin-useexternalblogs .form-setting .form-description p {
+display: none;
+}
+
+#admin-externalblogcrontime .form-setting .form-description p {
+display: none;
+}
+
+#admin-maxexternalblogsperuser .form-setting .form-description p {
+display: none;
+}
+
+#admin-allowguestmymoodle {
+display: none;
+}
+
+#admin-docroot{
+display: none;
+}
+
+#page-admin-tool-usertours-configure span {
+display: none;
+}
+
+#admin-allowthemechangeonurl .form-setting .form-description p {
+display: none;
+}
+
+#admin-customusermenuitems {
+display: none;
+}
+
+#admin-devicedetectregex .form-setting .form-description p {
+display: none;
+}
+
+#admin-updateautocheck .form-setting .form-description p {
+display: none;
+}
+
+#admin-updatenotifybuilds .form-setting .form-description p {
+display: none;
+}
+
+#admin-maxtimelimit .form-setting .form-description p {
+display: none;
+}
+
+#admin-slasharguments .form-setting .form-description p {
+display: none;
+}
+
+#admin-sessioncookie  .form-setting .form-description p {
+display: none;
+}
+
+#admin-sessioncookiepath{
+display: none;
+}
+
+#admin-sessioncookiedomain .form-setting .form-description p {
+display: none;
+}
+
+#admin-smtphosts .form-setting .form-description p {
+display: none;
+}
+
+#admin-messageinbound_host .form-setting .form-description p {
+display: none;
+}
+
+#admin-messageinbound_hostssl .form-setting .form-description p {
+display: none;
+} 
+
+#admin-pathtosassc .form-setting .form-description p {
+display: none;
+} 
+
+#admin-enablewebservices .form-setting .form-description p {
+display: none;
+} 
+
+#admin-enablestats .form-setting .form-description p {
+display: none;
+} 
+
+#installfromrepobox {
+display: none;
+}
+
+#admin-doctonewwindow {
+display: none;
+}
+
+#admin-doclang{
+display: none;
+}
+
+#admin-enablecourserequests .form-setting .form-description p {
+display: none;
+} 
+
+#linkappearance .container .row .col-sm-9 .list-unstyled li:nth-child(7){
+display: none;
+}
+
+#page-admin-registration-index .box.py-3.generalbox {
+display: none;
+}
+
+#page-admin-index .box.py-3.generalbox.adminwarning .checkforupdates.mt-1{
+display: none;
+}
+
+#page-admin-index .box.py-3.copyright{
+display: none;
+}
+
+#page-admin-index .adminwarning:nth-child(5){
+display: none;
+}
+
+#page-admin-index .adminwarning:nth-child(2){
+display: none;
+}
+
+#page-course-index-category .course_category_tree .category>.info>.categoryname {
+    padding: 20px 50px;
+    background-size: 30px 30px;
+}
+
+#page-course-index-category .collapsible-actions .collapseexpand {
+    font-size: 15px;
+    font-weight: bolder;
+}
+";s:7:"scsspre";s:0:"";s:14:"secondarycolor";s:7:"#FFFFFF";s:13:"showmycourses";s:1:"0";s:11:"summarytype";s:5:"modal";s:7:"version";s:10:"2020041700";}

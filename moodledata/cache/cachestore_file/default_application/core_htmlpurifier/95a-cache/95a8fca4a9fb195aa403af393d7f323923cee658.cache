@@ -1,0 +1,56 @@
+s:1913:"
+
+            
+            <div class="container-fluid text-center text-md-left">
+        
+                
+                <div class="row">
+        
+                    
+                    <div class="col-md-6 mt-md-0 mt-3">
+        
+                        
+                        <h5 class="text-uppercase">STACK Classroom</h5>
+        
+                    </div>
+                    
+        
+                    <hr class="clearfix w-100 d-md-none pb-3" />
+        
+                    
+                    <div class="col-md-3 mb-md-0 mb-3">
+        
+                        
+                        <h5 class="text-uppercase">Contact us:</h5>
+        
+                        <ul class="labeled-icons">
+                            <li>
+                                <span class="fa fa-globe fa-2x"></span>
+                                <a target="_blank" rel="noreferrer noopener">
+                            </a>
+                                <p>https://<a href="https://stackschool.dev" target="_blank" rel="noreferrer noopener">stackschool.dev<br /></a></p>
+                            </li>
+        
+                            <li>
+                                <span class="fa fa-envelope fa-2x"></span>
+                                <a target="_blank" rel="noreferrer noopener">
+                            </a>
+                                <p><a target="_blank" rel="noreferrer noopener">team@stackschool.dev<br /></a></p>
+                            </li>
+                        </ul>
+                    </div>
+                    
+        
+                </div>
+                
+        
+            </div>
+            
+        
+            
+            <div class="footer-copyright text-center py-1">© 2020 Copyright:
+                <a href="#"> STACK Technologies</a>
+            </div>
+            
+        
+        ";
